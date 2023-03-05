@@ -21,6 +21,10 @@
 >## 🗳️ Layout do projeto
 
 ![Os Simpsons](https://user-images.githubusercontent.com/110351770/222977776-07c65d5c-08da-4f76-b848-41ba100c1d11.png)
+<br/>
+Visualizar o projeto através [DESSE LINK](https://urna-eletronica-rho.vercel.app/)
+<br/>
+
 
 > ## Candidatos
 
