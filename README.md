@@ -11,7 +11,7 @@
 </tr>
 </table>
 
->**O que aprendi nesse projeto:**
+**O que aprendi nesse projeto:**
 - HTML: `div`,`class`
 
 - CSS: `background`,`padding`,`background`,`margin`,`margin`,`height`,`width`,`flex`,`@keyframes`
